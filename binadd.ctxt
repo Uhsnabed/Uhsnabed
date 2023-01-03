@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=binadd
+comment1.params=
+comment1.target=binadd()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=n
+comment3.target=long\ blongodeci(long)
+comment4.params=
+comment4.target=long\ add()
+comment5.params=l
+comment5.target=java.lang.String\ decitobin(long)
+comment6.params=
+comment6.target=void\ main()
+numComments=7

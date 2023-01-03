@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Binary
+comment1.params=
+comment1.target=Binary()
+comment2.params=n
+comment2.target=java.lang.String\ binary(int)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
